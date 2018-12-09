@@ -6,7 +6,7 @@ w = 0
 x = 2
 y = 0
 z = 0
-print("raiz de =|  | some num impar(= a proxima raiz de)")
+print("Numero | raiz | impar sequencial")
 while w <= 100:
     y = x * x
     w = w + 1
